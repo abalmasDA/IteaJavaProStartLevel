@@ -13,7 +13,7 @@ public class ArithmeticAverage {
         int number2 = numbers.nextInt();
         System.out.println("Input integer number 3:");
         int number3 = numbers.nextInt();
-        double arithmeticAverage = (double) (number1 + number2 + number3) / 13;
+        double arithmeticAverage = (double) (number1 + number2 + number3) / 3;
 
         System.out.println("Arithmetic Average = " + arithmeticAverage);
 
