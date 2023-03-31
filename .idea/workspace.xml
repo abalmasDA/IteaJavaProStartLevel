@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit7">
-      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task7/Circle.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit8">
+      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task8/Volume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Circle">
+  <component name="RunManager" selected="Application.Volume">
     <configuration name="ArithmeticAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task6.ArithmeticAverage" />
       <module name="IteaJavaProStartLevel" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task3.String" />
+    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task8.Volume" />
       <module name="IteaJavaProStartLevel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.itea.week2.task3.*" />
+          <option name="PATTERN" value="ua.itea.week2.task8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Volume" />
         <item itemvalue="Application.Circle" />
         <item itemvalue="Application.ArithmeticAverage" />
         <item itemvalue="Application.Manipulation" />
         <item itemvalue="Application.Char" />
-        <item itemvalue="Application.String" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680267657580</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit8">
+      <created>1680268726453</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680268726453</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +204,7 @@
     <MESSAGE value="Commit5" />
     <MESSAGE value="Commit6" />
     <MESSAGE value="Commit7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit7" />
+    <MESSAGE value="Commit8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit8" />
   </component>
 </project>
