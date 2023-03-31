@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Init commit2">
-      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task3/String.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit3">
+      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task4/Char.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/itea/week2/task3/fdgdf.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.String">
+  <component name="RunManager" selected="Application.Char">
+    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task4.Char" />
+      <module name="IteaJavaProStartLevel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.itea.week2.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task2.Constants" />
       <module name="IteaJavaProStartLevel" />
@@ -82,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Char" />
         <item itemvalue="Application.String" />
         <item itemvalue="Application.Constants" />
       </list>
@@ -110,12 +123,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680250702395</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit3">
+      <created>1680252183032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680252183032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <MESSAGE value="Init commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit2" />
+    <MESSAGE value="Commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit3" />
   </component>
 </project>
