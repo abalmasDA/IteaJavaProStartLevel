@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit8">
-      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task8/Volume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit9">
+      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Volume">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArithmeticAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task6.ArithmeticAverage" />
       <module name="IteaJavaProStartLevel" />
@@ -66,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task4.Char" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task7.Circle" />
       <module name="IteaJavaProStartLevel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.itea.week2.task4.*" />
+          <option name="PATTERN" value="ua.itea.week2.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task7.Circle" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task9.Main" />
       <module name="IteaJavaProStartLevel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.itea.week2.task7.*" />
+          <option name="PATTERN" value="ua.itea.week2.task9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Volume" />
         <item itemvalue="Application.Circle" />
         <item itemvalue="Application.ArithmeticAverage" />
         <item itemvalue="Application.Manipulation" />
-        <item itemvalue="Application.Char" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680268726453</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit9">
+      <created>1680269382578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680269382578</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,6 +211,7 @@
     <MESSAGE value="Commit6" />
     <MESSAGE value="Commit7" />
     <MESSAGE value="Commit8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit8" />
+    <MESSAGE value="Commit9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit9" />
   </component>
 </project>
