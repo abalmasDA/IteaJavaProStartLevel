@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit10">
-      <change afterPath="$PROJECT_DIR$/src/ua/itea/week2/task10/Main.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/itea/week2/task9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/itea/week2/task9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/itea/week2/task8/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/itea/week2/task8/Volume.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,10 +53,11 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/abalm/odrive/Google Drive IT/IteaJavaPro/IteaJavaProStartLevel",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ua.itea.week2.task10.Main">
+  <component name="RunManager" selected="Application.Volume">
     <configuration name="ArithmeticAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task6.ArithmeticAverage" />
       <module name="IteaJavaProStartLevel" />
@@ -125,9 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Volume" />
         <item itemvalue="Application.ua.itea.week2.task10.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Volume" />
         <item itemvalue="Application.Circle" />
         <item itemvalue="Application.ArithmeticAverage" />
       </list>
@@ -212,8 +212,26 @@
       <option name="project" value="LOCAL" />
       <updated>1680269913391</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit11">
+      <created>1680271019738</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680271019738</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
@@ -226,6 +244,7 @@
     <MESSAGE value="Commit8" />
     <MESSAGE value="Commit9" />
     <MESSAGE value="Commit10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit10" />
+    <MESSAGE value="Commit11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit11" />
   </component>
 </project>
