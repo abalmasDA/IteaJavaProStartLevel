@@ -1,4 +1,4 @@
-package ua.itea.week4;
+package ua.itea.week4.task3;
 
 import java.util.Scanner;
 
@@ -34,7 +34,7 @@ public class Interval {
 
     public static int range(int number) {
 
-        int k = 0;
+        int k=0;
 
         if (number >= 0 && number <= 14) {
             k = number;
@@ -54,5 +54,6 @@ public class Interval {
         }
         return k;
     }
+
 
 }

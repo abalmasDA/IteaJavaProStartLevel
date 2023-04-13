@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit12">
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/itea/week2/task8/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/itea/week2/task8/Volume.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ua.itea.week4" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Interval">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task7.Circle" />
@@ -72,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="Interval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.week4.Interval" />
+      <option name="MAIN_CLASS_NAME" value="ua.itea.week4.task3.Interval" />
       <module name="IteaJavaProStartLevel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.itea.week4.*" />
+          <option name="PATTERN" value="ua.itea.week4.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,7 +230,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680356286961</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commit13">
+      <created>1681409980102</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681409980102</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit14">
+      <created>1681410100656</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681410100656</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +271,8 @@
     <MESSAGE value="Commit10" />
     <MESSAGE value="Commit11" />
     <MESSAGE value="Commit12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit12" />
+    <MESSAGE value="Commit13" />
+    <MESSAGE value="Commit14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit14" />
   </component>
 </project>
