@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit18">
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit19">
+      <change afterPath="$PROJECT_DIR$/src/NumberFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/abalm/odrive/Google Drive IT/IteaJavaPro/test",
+    "last_opened_file_path": "C:/Users/abalm/odrive/Google Drive IT/IteaJavaPro/IteaJavaProStartLevel",
     "settings.editor.selected.configurable": "cn.yiiguxing.plugin.translate"
   }
 }]]></component>
@@ -61,7 +62,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Delivery">
+  <component name="RunManager" selected="Application.NumberFactorial">
     <configuration name="Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Delivery" />
       <module name="IteaJavaProStartLevel" />
@@ -78,6 +79,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberFactorial" />
+      <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.week2.task8.Volume" />
-      <module name="IteaJavaProStartLevel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.itea.week2.task8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberFactorial" />
         <item itemvalue="Application.Delivery" />
         <item itemvalue="Application.SumMin" />
         <item itemvalue="Application.Translator" />
         <item itemvalue="Application.Interval" />
-        <item itemvalue="Application.Volume" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681912057047</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit19">
+      <created>1682006152919</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1682006152919</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,7 +301,20 @@
     <MESSAGE value="Commit16" />
     <MESSAGE value="Commit17" />
     <MESSAGE value="Commit18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit18" />
+    <MESSAGE value="Commit19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit19" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/NumberFactorial.java</url>
+          <line>8</line>
+          <properties field="factorial" class="NumberFactorial" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
