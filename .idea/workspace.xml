@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit19">
-      <change afterPath="$PROJECT_DIR$/src/NumberFactorial.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit22">
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberFactorial">
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Delivery" />
       <module name="IteaJavaProStartLevel" />
@@ -70,15 +70,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.week4.task3.Interval" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="IteaJavaProStartLevel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.itea.week4.task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.NumberFactorial" />
         <item itemvalue="Application.Delivery" />
         <item itemvalue="Application.SumMin" />
         <item itemvalue="Application.Translator" />
-        <item itemvalue="Application.Interval" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682006152919</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commit20">
+      <created>1682009155399</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1682009155399</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,19 +303,10 @@
     <MESSAGE value="Commit17" />
     <MESSAGE value="Commit18" />
     <MESSAGE value="Commit19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit19" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/NumberFactorial.java</url>
-          <line>8</line>
-          <properties field="factorial" class="NumberFactorial" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Commit20" />
+    <MESSAGE value="Commit21" />
+    <MESSAGE value="Commit22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
