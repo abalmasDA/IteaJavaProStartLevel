@@ -1,9 +1,14 @@
+import java.util.Scanner;
+
 public class FibonacciSequence {
+    static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
 
-        int initialNumber = 5;
-        int endNumber = 15;
+        System.out.print("Enter initial number fibonacci sequence:");
+        int initialNumber = scanner.nextInt();
+        System.out.print("Enter end number fibonacci sequence:");
+        int endNumber = scanner.nextInt();
         int[] arrayFibonacci = new int[endNumber];
         arrayFibonacci[0] = 0;
         arrayFibonacci[1] = 1;
