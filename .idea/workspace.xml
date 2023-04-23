@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit22">
-      <change afterPath="$PROJECT_DIR$/src/PrintingShapes.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit23">
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintingShapes">
+  <component name="RunManager" selected="Application.Rectangle">
     <configuration name="Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Delivery" />
       <module name="IteaJavaProStartLevel" />
@@ -91,26 +91,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.itea.SumMin" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rectangle" />
       <module name="IteaJavaProStartLevel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.itea.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.PrintingShapes" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.NumberFactorial" />
         <item itemvalue="Application.Delivery" />
-        <item itemvalue="Application.SumMin" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682009563737</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit23">
+      <created>1682235536684</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1682235536684</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +308,8 @@
     <MESSAGE value="Commit20" />
     <MESSAGE value="Commit21" />
     <MESSAGE value="Commit22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit22" />
+    <MESSAGE value="Commit23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit23" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
