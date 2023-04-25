@@ -1,15 +1,12 @@
 public class MultiplicationTable {
-
+    final static int NUMBER = 7;
+    final static int POWER_OF_NUMBER = 20;
 
     public static void main(String[] args) {
 
-        int a = 7;
-        int multiplication = 0;
+        for (int i = 1; i <= POWER_OF_NUMBER; i++) {
 
-        for (int i = 1; i <= 10; i++) {
-            multiplication = a * i;
-            System.out.println(a + " * " + i + " = " + multiplication + ";");
-
+            System.out.printf("%d * %d = %d;\n", NUMBER, i, NUMBER * i);
         }
 
     }
