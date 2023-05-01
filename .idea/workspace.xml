@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit29">
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit30">
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CustomerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,14 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerArray">
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="IteaJavaProStartLevel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomerArray" />
       <module name="IteaJavaProStartLevel" />
@@ -84,13 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintingShapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintingShapes" />
-      <module name="IteaJavaProStartLevel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rectangle" />
       <module name="IteaJavaProStartLevel" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.CustomerArray" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.FibonacciSequence" />
-        <item itemvalue="Application.PrintingShapes" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682962206215</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Commit30">
+      <created>1682963097879</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1682963097879</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,7 +335,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit5" />
     <MESSAGE value="Commit6" />
     <MESSAGE value="Commit7" />
     <MESSAGE value="Commit8" />
@@ -353,7 +359,8 @@
     <MESSAGE value="Commit27" />
     <MESSAGE value="Commit28" />
     <MESSAGE value="Commit29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit29" />
+    <MESSAGE value="Commit30" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit30" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
