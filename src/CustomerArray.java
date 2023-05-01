@@ -74,6 +74,17 @@ public class CustomerArray {
 
         }
 
+        // output even values of the arrayData
+        System.out.println();
+        System.out.print("Even values of the arrayData: ");
+        for (int i = 0; i < arrayData.length; i++) {
+            if (arrayData[i] % 2 == 0)
+                System.out.print(arrayData[i] + " ");
+
+        }
+
+
+
 
     }
 
