@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit31">
-      <change afterPath="$PROJECT_DIR$/src/ReversedArray.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit32">
+      <change afterPath="$PROJECT_DIR$/src/UserArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReversedArray">
+  <component name="RunManager" selected="Application.UserArray">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="IteaJavaProStartLevel" />
@@ -73,13 +72,6 @@
     </configuration>
     <configuration name="CustomerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomerArray" />
-      <module name="IteaJavaProStartLevel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,13 +91,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserArray" />
+      <module name="IteaJavaProStartLevel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserArray" />
         <item itemvalue="Application.ReversedArray" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.CustomerArray" />
         <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.MultiplicationTable" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682964112215</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Commit32">
+      <created>1683133731836</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1683133731836</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,7 +349,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit7" />
     <MESSAGE value="Commit8" />
     <MESSAGE value="Commit9" />
     <MESSAGE value="Commit10" />
@@ -368,7 +373,8 @@
     <MESSAGE value="Commit29" />
     <MESSAGE value="Commit30" />
     <MESSAGE value="Commit31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit31" />
+    <MESSAGE value="Commit32" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit32" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
