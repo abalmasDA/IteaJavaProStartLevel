@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit33">
-      <change afterPath="$PROJECT_DIR$/src/Arrays2D.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit34">
+      <change afterPath="$PROJECT_DIR$/src/Arrays2DMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arrays2D">
+  <component name="RunManager" selected="Application.Arrays2DMethod">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="IteaJavaProStartLevel" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomerArray" />
+    <configuration name="Arrays2DMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays2DMethod" />
       <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays2DMethod" />
         <item itemvalue="Application.Arrays2D" />
         <item itemvalue="Application.UserArray" />
         <item itemvalue="Application.ReversedArray" />
         <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.CustomerArray" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683140002009</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Commit34">
+      <created>1683201685572</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1683201685572</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit9" />
     <MESSAGE value="Commit10" />
     <MESSAGE value="Commit11" />
     <MESSAGE value="Commit12" />
@@ -381,7 +387,8 @@
     <MESSAGE value="Commit31" />
     <MESSAGE value="Commit32" />
     <MESSAGE value="Commit33" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit33" />
+    <MESSAGE value="Commit34" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit34" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
