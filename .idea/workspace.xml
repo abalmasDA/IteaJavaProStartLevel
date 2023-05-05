@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit35">
-      <change afterPath="$PROJECT_DIR$/src/Arithmetics.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit36">
+      <change afterPath="$PROJECT_DIR$/src/ConversionCurrency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,7 +67,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arithmetics">
+  <component name="RunManager" selected="Application.ConversionCurrency">
     <configuration name="Arithmetics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arithmetics" />
       <module name="IteaJavaProStartLevel" />
@@ -84,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReversedArray" />
+    <configuration name="ConversionCurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionCurrency" />
       <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversionCurrency" />
+        <item itemvalue="Application.UserArray" />
         <item itemvalue="Application.Arithmetics" />
         <item itemvalue="Application.Arrays2DMethod" />
         <item itemvalue="Application.Arrays2D" />
-        <item itemvalue="Application.UserArray" />
-        <item itemvalue="Application.ReversedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683202359075</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Commit36">
+      <created>1683219891146</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1683219891146</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +382,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit11" />
     <MESSAGE value="Commit12" />
     <MESSAGE value="Commit13" />
     <MESSAGE value="Commit14" />
@@ -395,7 +406,19 @@
     <MESSAGE value="Commit33" />
     <MESSAGE value="Commit34" />
     <MESSAGE value="Commit35" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit35" />
+    <MESSAGE value="Commit36" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit36" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UserArray.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
