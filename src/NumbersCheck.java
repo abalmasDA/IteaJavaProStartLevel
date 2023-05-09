@@ -36,6 +36,7 @@ public class NumbersCheck {
         }
     }
 
+
     public static void checkDivisibleNumber(int numberToCheck) {
 
         if (numberToCheck % 2 == 0) {

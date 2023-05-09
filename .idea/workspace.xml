@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit37">
-      <change afterPath="$PROJECT_DIR$/src/NumbersCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit38">
+      <change afterPath="$PROJECT_DIR$/src/Pow1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumbersCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumbersCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,16 +66,9 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumbersCheck">
+  <component name="RunManager" selected="Application.Pow1">
     <configuration name="Arithmetics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arithmetics" />
-      <module name="IteaJavaProStartLevel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arrays2DMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays2DMethod" />
       <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,6 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pow1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pow1" />
+      <module name="IteaJavaProStartLevel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UserArray" />
       <module name="IteaJavaProStartLevel" />
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pow1" />
         <item itemvalue="Application.NumbersCheck" />
         <item itemvalue="Application.UserArray" />
         <item itemvalue="Application.ConversionCurrency" />
         <item itemvalue="Application.Arithmetics" />
-        <item itemvalue="Application.Arrays2DMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683293590562</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Commit38">
+      <created>1683646778627</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1683646778627</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,7 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit13" />
     <MESSAGE value="Commit14" />
     <MESSAGE value="Commit15" />
     <MESSAGE value="Commit16" />
@@ -414,20 +419,16 @@
     <MESSAGE value="Commit35" />
     <MESSAGE value="Commit36" />
     <MESSAGE value="Commit37" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit37" />
+    <MESSAGE value="Commit38" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit38" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/NumbersCheck.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/NumbersCheck.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/src/Pow1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
