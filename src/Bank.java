@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Використовуючи IntelliJ IDEA, створіть клас Bank. Уявіть, що ви реалізуєте програму для банку, яка допомагає визначити, погасив клієнт кредит чи ні.
  * Припустимо, щомісячна сума платежу має становити 100 грн. Клієнт має виконати 7 платежів, але може платити рідше великими сумами.
@@ -7,29 +9,61 @@
  */
 
 public class Bank {
-    final int AMOUNT_DEBT = 700;
+
+    public static Scanner inputDataBankEmployee = new Scanner(System.in);
+    final static String EXIT_MESSAGE = "Exit";
+
+
+    static int initialAmountLoan = 700;
+    static int inputPaymentAmount = 0;
+    static int currentAmountDeposited = 0;
 
 
     public static void getStatusCredit(int amountReceived) {
-        int amountDebt = 700;
-        int currentlyDebtStatus = 0;
+        int amountLoanDebt = initialAmountLoan - amountReceived;
+        System.out.println("The current amount of loan debt:" + amountLoanDebt);
 
+        System.out.println("The current amount of money deposited on the loan: " + currentAmountDeposited);
 
-        if (currentlyDebtStatus >= amountDebt) {
-            System.out.println("The loan is repaid, there is no debt");
-        } else {
-            int debtToPay = amountDebt - currentlyDebtStatus;
-            System.out.println("it need to pay another " + debtToPay);
+        if (amountLoanDebt < currentAmountDeposited) {
+            System.out.println("There is no debt on the loan");
         }
-
+        System.out.println();
 
     }
 
 
     public static void main(String[] args) {
 
+        while (true) {
+
+            System.out.println("Enter the payment amount:");
+            System.out.println("To stop the program, enter: " + EXIT_MESSAGE);
+            String scanner = inputDataBankEmployee.next();
+
+            if (scanner.equalsIgnoreCase(EXIT_MESSAGE)) {
+                break;
+            } else {
+                inputPaymentAmount = Integer.parseInt(scanner);
+                currentAmountDeposited += inputPaymentAmount;
+                getStatusCredit(currentAmountDeposited);
+            }
+
+            if (currentAmountDeposited >= initialAmountLoan) {
+                System.out.println("No loan debt");
+                break;
+            }
+
+        }
+        inputDataBankEmployee.close();
 
     }
 
 
 }
+
+
+
+
+
+
