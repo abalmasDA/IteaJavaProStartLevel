@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit45">
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit46">
+      <change afterPath="$PROJECT_DIR$/src/DeliveryRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bank">
+  <component name="RunManager" selected="Application.DeliveryRecursion">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank" />
       <module name="IteaJavaProStartLevel" />
@@ -87,6 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DeliveryRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeliveryRecursion" />
+      <module name="IteaJavaProStartLevel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberAverage" />
       <module name="IteaJavaProStartLevel" />
@@ -94,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pow2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pow2" />
-      <module name="IteaJavaProStartLevel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeliveryRecursion" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Calculator1" />
         <item itemvalue="Application.NumberAverage" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Pow2" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683703249713</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Commit46">
+      <created>1683733036053</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1683733036053</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +457,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit21" />
     <MESSAGE value="Commit22" />
     <MESSAGE value="Commit23" />
     <MESSAGE value="Commit24" />
@@ -475,7 +481,8 @@
     <MESSAGE value="Commit43" />
     <MESSAGE value="Commit44" />
     <MESSAGE value="Commit45" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit45" />
+    <MESSAGE value="Commit46" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit46" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
