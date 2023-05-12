@@ -20,7 +20,7 @@ public class DeliveryRecursion {
     }
 
     public static void main(String[] args) {
-        int numberClients = 7;
+        int numberClients = 500000;
         if (numberClients < 0) {
             System.out.println("You cannot calculate possible delivery options for negative number clients");
         } else {

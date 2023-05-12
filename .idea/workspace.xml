@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit46">
-      <change afterPath="$PROJECT_DIR$/src/DeliveryRecursion.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit47">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeliveryRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeliveryRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abalm/odrive/Google Drive IT/IteaJavaPro/IteaJavaProStartLevel&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abalm/odrive/Google Drive IT/IteaJavaPro/test&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;
   }
 }</component>
@@ -65,7 +67,7 @@
       <recent name="ua.itea.week4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeliveryRecursion">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank" />
       <module name="IteaJavaProStartLevel" />
@@ -73,15 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
-      <module name="IteaJavaProStartLevel" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator1" />
+    <configuration name="Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Delivery" />
       <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,8 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberAverage" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IteaJavaProStartLevel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
       <module name="IteaJavaProStartLevel" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Delivery" />
         <item itemvalue="Application.DeliveryRecursion" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.Calculator1" />
-        <item itemvalue="Application.NumberAverage" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683733036053</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Commit47">
+      <created>1683810809100</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1683810809100</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,7 +466,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit22" />
     <MESSAGE value="Commit23" />
     <MESSAGE value="Commit24" />
     <MESSAGE value="Commit25" />
@@ -482,7 +490,19 @@
     <MESSAGE value="Commit44" />
     <MESSAGE value="Commit45" />
     <MESSAGE value="Commit46" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit46" />
+    <MESSAGE value="Commit47" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit47" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DeliveryRecursion.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
