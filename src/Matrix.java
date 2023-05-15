@@ -14,9 +14,9 @@ import java.util.Arrays;
  */
 
 public class Matrix {
-    double[][] someMatrix;
-    static int matrixRows;
-    static int matrixColumns;
+    private double[][] someMatrix;
+    private int matrixRows;
+    private int matrixColumns;
 
     public Matrix(int matrixRows, int matrixColumns) {
         this.matrixRows = matrixRows;
@@ -89,7 +89,7 @@ public class Matrix {
     }
 
 
-//
+
 
 }
 

@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit48">
-      <change afterPath="$PROJECT_DIR$/src/Matrix.java" afterDir="false" />
+    <list default="true" id="1a6e63c6-0614-4fdd-9d73-2f8ea7f5a474" name="Changes" comment="Commit49">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/abalm/odrive/Google Drive IT/IteaJavaPro/IteaJavaProStartLevel&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.Arrays2D" />
         <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Delivery" />
+        <item itemvalue="Application.Arrays2D" />
       </list>
     </recent_temporary>
   </component>
@@ -457,8 +458,26 @@
       <option name="project" value="LOCAL" />
       <updated>1683891923942</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Commit49">
+      <created>1683914296907</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1683914296907</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -472,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit24" />
     <MESSAGE value="Commit25" />
     <MESSAGE value="Commit26" />
     <MESSAGE value="Commit27" />
@@ -497,7 +515,8 @@
     <MESSAGE value="Commit46" />
     <MESSAGE value="Commit47" />
     <MESSAGE value="Commit48" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit48" />
+    <MESSAGE value="Commit49" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit49" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
